@@ -53,7 +53,3 @@ Each component was individually modeled and then assembled using CAD constraints
 ## Project Link
 [View CAD Model](https://cad.onshape.com/documents/763ffed7b6e23cdccd02ecf2/w/75618a4338b6509242c06140/e/0a14e570dd864724d800edf7)
 
----
-
-## Author
-Anand Krishna
