@@ -2,6 +2,7 @@
 
 A mechanical CAD project focused on designing and validating a complete 4-stroke engine assembly, including motion analysis and interference checks.
 
+<img width="1270" height="822" alt="Screenshot 2026-04-24 at 1 41 15 PM" src="https://github.com/user-attachments/assets/f5108f88-11fc-4acb-9d07-4e6281a58ef5" />
 ---
 
 ## Overview
